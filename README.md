@@ -10,6 +10,8 @@ npm install
 
 ## Build
 
+Pre-requisites: home-manager and nixpkgs channels to be setup
+
 For nix json modules: `nix-build`
 
 - Build: `npm run build`
